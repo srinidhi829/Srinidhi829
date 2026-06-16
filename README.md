@@ -16,6 +16,7 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 ##  About Me
 
 - 🎓 BTech in Computer Science & Engineering (AI & DS) at Shri Vishnu Engineering College for Women
+- 📚 Current CGPA: 9.26
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Full-Stack Development
 - 💡 Built projects including an AI-Based Attendance Tracker and Ecommerce System
 - 🎙️ Radio Jockey at Radio Vishnu 90.4
@@ -24,7 +25,7 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 - 📫 Reach me at: **srinidhivasireddy829@gmail.com**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,22 +45,26 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI-Based Attendance Tracker System
-- Face-recognition-based attendance system using React.js, Node.js, MongoDB, Supabase, and FAISS.
-- Automates attendance from a single classroom image.
-- Reduces manual effort and improves accuracy.
+### 🤖 [AI-Based Attendance Tracker System](https://github.com/srinidhi829/ai-attendance-system)
 
-### 🛒 ShopEase - Ecommerce System
-- Java-based ecommerce application.
-- Supports user management, products, cart handling, and order processing.
-- Built using Object-Oriented Programming principles.
+* Face-recognition-based attendance system using React.js, Node.js, MongoDB, Supabase, and FAISS.
+* Automates attendance from a single classroom image.
+* Reduces manual effort and improves accuracy.
 
-### 🧵 Fabric Pattern Classifier
-- Deep learning project built using TensorFlow and MobileNetV2.
-- Classifies 75+ fabric patterns with over 90% accuracy.
-- Developed during an AI & ML internship.
+### 🛒 [ShopEase - Ecommerce System](https://github.com/srinidhi829/Ecommerce-java-project)
+
+* Java-based ecommerce application.
+* Supports user management, products, cart handling, and order processing.
+* Built using Object-Oriented Programming principles.
+
+### 🧵 [Fabric Pattern Classifier](https://github.com/srinidhi829/fabric_classifier)
+
+* Deep learning project built using TensorFlow and MobileNetV2.
+* Classifies 75+ fabric patterns with over 90% accuracy.
+* Developed during an AI & ML internship.
+
 
 
 ## 🌐 Connect With Me
@@ -69,7 +74,7 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 -  GitHub: https://github.com/srinidhi829
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srinidhi829&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -104,3 +109,8 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 <p align="center">
 Feel free to connect with me and explore my projects.
 </p>
+
+
+## 💡 Quote
+
+> "Turning ideas into impactful solutions through AI, technology, and continuous learning."
