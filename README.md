@@ -83,12 +83,6 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi829&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srinidhi829&theme=tokyonight" />
-</p>
-
 
 ## 🏆 Achievements & Leadership
 
