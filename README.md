@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Radio+Jockey+at+Radio+Vishnu+90.4;BTech+CSE+(AI+%26+DS)+Student;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Vasireddy Krishna Srinidhi</h1>
 <h3 align="center">BTech CSE (AI & DS) Student | AI & ML Enthusiast | Full-Stack Developer</h3>
 
@@ -78,6 +81,12 @@ Passionate about building AI-powered applications, exploring Machine Learning, a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi829&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srinidhi829&theme=tokyonight" />
 </p>
 
 
